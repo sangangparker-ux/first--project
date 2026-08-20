@@ -1,3 +1,6 @@
+//Ce fichier definit le composant racine de l'application Angular
+
+
 import { Component, signal } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 
