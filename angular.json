@@ -6,7 +6,11 @@
   },
   "newProjectRoot": "projects",
   "projects": {
+<<<<<<< HEAD
     "first-project": {
+=======
+    "PRATIQUE": {
+>>>>>>> e23c6d6ac5503f60c45d6ec9efdf1bb470e1c37a
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -56,10 +60,17 @@
           "builder": "@angular/build:dev-server",
           "configurations": {
             "production": {
+<<<<<<< HEAD
               "buildTarget": "first-project:build:production"
             },
             "development": {
               "buildTarget": "first-project:build:development"
+=======
+              "buildTarget": "PRATIQUE:build:production"
+            },
+            "development": {
+              "buildTarget": "PRATIQUE:build:development"
+>>>>>>> e23c6d6ac5503f60c45d6ec9efdf1bb470e1c37a
             }
           },
           "defaultConfiguration": "development"

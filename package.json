@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "first-project",
+=======
+  "name": "pratique",
+>>>>>>> e23c6d6ac5503f60c45d6ec9efdf1bb470e1c37a
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",

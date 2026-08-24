@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # FirstProject
+=======
+# PRATIQUE
+>>>>>>> e23c6d6ac5503f60c45d6ec9efdf1bb470e1c37a
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 22.1.3.
 
